@@ -23,20 +23,20 @@ We publish hours, offerings and contact paths clearly so customers know what to 
 
 ---
 
-## Our promise
+## What drives us
 
-At Tandat Vn, great insurance agency shouldn't require guesswork. We publish hours, prices, and policies so your visit starts with confidence.
+Tandat Vn is a insurance agency built around real neighbors in Nashville. We'd rather do fewer things well than overwhelm you with noise.
 
-- Transparent menus and service lists
-- Staff who explain options without pressure
-- Quality that holds up visit after visit
-- Follow-through when something needs fixing
+- Curated offerings over endless catalogs
+- Human replies instead of auto-responses
+- Seasonal updates that actually change
+- A front door that's easy to find
 
 ---
 
-## The long view
+## Looking ahead
 
-Become the insurance agency benchmark in Nashville — known for craft, accessibility, and a brand identity that feels unmistakably Tandat Vn.
+Expand what Tandat Vn does best while keeping the same welcome — evolving with professional trends without losing our local voice.
 
 ---
 
@@ -75,91 +75,6 @@ Become the insurance agency benchmark in Nashville — known for craft, accessib
 
 ---
 
-
-# Featured Categories
-
-| Category | Description |
-|----------|-------------|
-| **New Arrivals** | Latest additions to our insurance agency catalog |
-| **Best Sellers** | Customer favorites and most-requested options |
-| **Signature Experience** | Our most requested package |
-| **Insurance Agency Essentials** | Core offering for everyday guests |
-| **Essentials** | Everyday foundations of the brand |
-| **Premium** | Elevated selections for special occasions |
-| **Support** | Guidance, sizing help and aftercare |
-| **Visit / Book** | Hours, appointments and walk-in options |
-
-
----
-
-# Brand Style
-
-### Seasonal Rotation
-
-Fresh highlights without resetting the whole catalog.
-
-### Workday Ready
-
-Practical choices that still look intentional.
-
-### Modern Everyday
-
-Clean, comfortable options for daily life.
-
-### Signature Edit
-
-Distinctive pieces that define the brand look.
-
----
-
-# Why Choose Tandat Vn?
-
-### Built to return
-
-Consistency matters more than one flashy launch.
-
-### Local roots
-
-Based in Nashville with a team you can meet in person.
-
-### Craft first
-
-We invest in the work behind the counter, not filler marketing.
-
-### Built to return
-
-Consistency matters more than one flashy launch.
----
-
-# What the website includes
-
-- Responsive layout tuned for mobile
-- Clear **Offerings** with prices
-- Visit page with map and hours
-- Contact form — stay on site, no redirects
-- Policies and support desk email
-
----
-
-# Brand Identity
-
-**Industry:** Insurance Agency (Professional)  
-**Location:** Nashville, TN  
-**Audience:** Customers looking for reliable, accessible insurance agency.
-
----
-
-# Repository
-
-Public profile + website assets for **Tandat Vn**.
-
-```text
-tandat-vn/
-├── README.md
-└── tandat-vn.github.io/
-```
-
----
 
 # Customer Support
 
